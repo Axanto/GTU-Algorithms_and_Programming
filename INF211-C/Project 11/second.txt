@@ -1,0 +1,4 @@
+
+ATTENTION READER! THIS IS INF211 CLASS. HAVE FUN!
+
+The file second.txt has 50 characters
